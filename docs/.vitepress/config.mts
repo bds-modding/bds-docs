@@ -7,7 +7,7 @@ export default defineConfig({
   base: "/docs/",
   themeConfig: {
     logo: "https://raw.githubusercontent.com/LoomMC/docs/main/logo.png",
-    siteTitle: "Loom API Documentation",
+    siteTitle: "Loom API Docs",
 
     nav: [
       { text: 'Home', link: '/' }
