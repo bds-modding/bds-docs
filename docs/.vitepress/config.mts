@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Loom API Documentation",
+  title: "Loom API Docs",
   description: "A documentation helping modders to learn the Loom API",
   base: "/docs/",
   themeConfig: {
