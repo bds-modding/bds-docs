@@ -13,9 +13,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Beginners Guide',
+        text: 'Loom FAQ',
         items: [
-          { text: 'test', link: '/' }
+          { text: 'What is Loom?', link: '/' }
         ]
       }
     ],
