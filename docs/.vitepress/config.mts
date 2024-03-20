@@ -6,7 +6,9 @@ export default defineConfig({
   description: "A documentation helping modders to learn the Loom API",
   base: "/docs/",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: "https://raw.githubusercontent.com/LoomMC/docs/main/logo.png",
+    siteTitle: "Loom API Documentation",
+
     nav: [
       { text: 'Home', link: '/' }
     ],
