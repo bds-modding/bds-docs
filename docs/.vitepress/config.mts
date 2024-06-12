@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Loom API Docs",
-  description: "A documentation helping modders to learn the Loom API",
+  title: "BDS Docs",
+  description: "A documentation helping modders to understand BDS and it's innerworkings.",
   base: "/docs/",
   themeConfig: {
-    logo: "https://raw.githubusercontent.com/LoomMC/docs/main/logo.png",
-    siteTitle: "Loom API Docs",
+    logo: "https://raw.githubusercontent.com/bds-modding/bds-docs/main/logo.png",
+    siteTitle: "BDS Docs",
 
     nav: [
       { text: 'Home', link: '/' }
@@ -23,7 +23,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/LoomMC/loom' }
+      { icon: 'github', link: 'https://github.com/bds-modding/bds-docs' }
     ],
 
     search: {
