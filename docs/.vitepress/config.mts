@@ -15,9 +15,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Loom FAQ',
+        text: 'Welcome to BDS Docs',
         items: [
-          { text: 'What is Loom?', link: '/' }
+          { text: 'What are the BDS Docs?', link: '/' }
         ]
       }
     ],
