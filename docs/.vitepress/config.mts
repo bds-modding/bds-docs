@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "BDS Docs",
   description: "A documentation helping modders to understand BDS and it's innerworkings.",
-  base: "/docs/",
+  base: "/bds-docs/",
   themeConfig: {
     logo: "https://raw.githubusercontent.com/bds-modding/bds-docs/main/logo.png",
     siteTitle: "BDS Docs",
