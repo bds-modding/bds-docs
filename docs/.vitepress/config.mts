@@ -17,7 +17,8 @@ export default defineConfig({
       {
         text: 'Welcome to BDS Docs',
         items: [
-          { text: 'What are the BDS Docs?', link: '/' }
+          { text: 'What are the BDS Docs?', link: '/' },
+          { text: 'What are types of packets?', link: '/packets.md' }
         ]
       }
     ],
