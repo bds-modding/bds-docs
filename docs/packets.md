@@ -1,3 +1,7 @@
+## Packets
+Packets are data that are sent from the server to the client and from the client to the server. This is useful for different information especially regarding multiplayer.
+
+## Types of Packets
 | ID | Name | Description |
 |----|------|-------------|
 | 1 | Login | Sent once from client to server at login. |
